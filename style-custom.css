@@ -3,3 +3,11 @@
     align-items: center;
     justify-content: center;
 }
+
+.external-link {
+    color: #1c8314;
+}
+
+.external-link:hover {
+    color: #40ba37;
+}
