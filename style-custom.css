@@ -11,3 +11,20 @@
 .external-link:hover {
     color: #40ba37;
 }
+
+.roundedImage{
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:90px;
+    height:90px;
+}
+
+.membre-meta{
+    display: inline-block;
+}
+
+.single-feature-area .info {
+    margin-bottom: 0;
+    padding-left: 30px; }
