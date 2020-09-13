@@ -42,7 +42,7 @@
             margin: 0,
             loop: true,
             nav: true,
-            navText: ['Prev', 'Next'],
+            navText: ['Préc.', 'Suiv.'],
             dots: true,
             autoplay: true,
             autoplayTimeout: 8000,
